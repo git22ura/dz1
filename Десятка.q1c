@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Новый запрос">
+		<text>ВЫБРАТЬ 1+1+&amp;ЧтоТо	 КАК РезультатДесять
+</text>
+		<parameters>
+			<parameter name="ЧтоТо" type="Число" value="8"/>
+		</parameters>
+	</query>
+</querylist>
